@@ -1,0 +1,31 @@
+.navbar-container{
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0px 100px;
+    -webkit-box-shadow: 0px 10px 13px -7px #bfbfbf, 0px 0px 0px 0px rgba(0,0,0,0); 
+    box-shadow: 0px 10px 13px -7px #bfbfbf, 0px 0px 0px 0px rgba(0,0,0,0);
+}
+
+.navbar-logo{
+    height: 70px;
+    width: 70px;
+}
+
+.navbar-link-container{
+  display: flex;
+}
+
+.navbar-link{
+    text-decoration: none;
+    margin-left: 75px;
+    font-size: 20px;
+    color: #000000;
+    transition: .2s;
+}
+
+.navbar-link:hover{
+    color: #8490FF;
+    transition: .2s;
+}
