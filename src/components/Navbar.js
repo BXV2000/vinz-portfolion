@@ -1,15 +1,16 @@
-import '../css/Navbar.css'
+import '../css/Navbar.css';
+import {Link} from 'react-router-dom';
 import { ReactComponent as Logo } from '../img/Logo.svg';
 
 const Navbar = () => {
     return ( 
         <div className="navbar-container">
-            <a href="./"><Logo className="navbar-logo"/></a>
+            <Link to="./"><Logo className="navbar-logo"/></Link>
             <div className="navbar-link-container">
-                <a href="./" className="navbar-link">HOME</a>
-                <a href="./" className="navbar-link">ABOUT</a>
-                <a href="./" className="navbar-link">PORTFOLIO</a>
-                <a href="./" className="navbar-link">CONTACT</a>
+                <Link to="/" className="navbar-link">HOME</Link>
+                <Link to="/About" className="navbar-link">ABOUT</Link>
+                <Link to="/" className="navbar-link">PORTFOLIO</Link>
+                <Link to="/" className="navbar-link">CONTACT</Link>
             </div>
         </div>
      );
