@@ -1,9 +1,10 @@
-import React from 'react'
+import React from 'react';
+import Intro from './Intro';
 
 function Home() {
   return (
-    <div className="Home">
-        <div className="content">This is home</div>
+    <div className="home-container">
+        <Intro/>
     </div>
   )
 }
