@@ -9,8 +9,8 @@ const Navbar = () => {
             <div className="navbar-link-container">
                 <Link to="/" className="navbar-link">HOME</Link>
                 <Link to="/About" className="navbar-link">ABOUT</Link>
-                <Link to="/" className="navbar-link">PORTFOLIO</Link>
-                <Link to="/" className="navbar-link">CONTACT</Link>
+                <Link to="/Portfolio" className="navbar-link">PORTFOLIO</Link>
+                <Link to="/Contact" className="navbar-link">CONTACT</Link>
             </div>
         </div>
      );

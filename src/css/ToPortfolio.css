@@ -1,7 +1,6 @@
 .to-portfolio-container{
-    background-color: #F9F9FF;
+    background-color: white;
     height: 900px;
-    margin-top: 100px;
     display: flex;
     flex-basis: 100%;
 }
