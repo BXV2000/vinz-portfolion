@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/vinz-portfolion%20/static/css/main.42db1e44.css",
-    "main.js": "/vinz-portfolion%20/static/js/main.5bad1f21.js",
-    "static/media/Intro-img.png": "/vinz-portfolion%20/static/media/Intro-img.837130e026df98582635.png",
-    "static/media/ToPortfolio.png": "/vinz-portfolion%20/static/media/ToPortfolio.eb64b275a19296b2258c.png",
-    "static/media/Logo.svg": "/vinz-portfolion%20/static/media/Logo.dab50861f603c319030fd4996c961abe.svg",
-    "index.html": "/vinz-portfolion%20/index.html",
-    "main.42db1e44.css.map": "/vinz-portfolion%20/static/css/main.42db1e44.css.map",
-    "main.5bad1f21.js.map": "/vinz-portfolion%20/static/js/main.5bad1f21.js.map"
+    "main.css": "/vinz-portfolion/static/css/main.42db1e44.css",
+    "main.js": "/vinz-portfolion/static/js/main.ce7805b8.js",
+    "static/media/Intro-img.png": "/vinz-portfolion/static/media/Intro-img.837130e026df98582635.png",
+    "static/media/ToPortfolio.png": "/vinz-portfolion/static/media/ToPortfolio.eb64b275a19296b2258c.png",
+    "static/media/Logo.svg": "/vinz-portfolion/static/media/Logo.dab50861f603c319030fd4996c961abe.svg",
+    "index.html": "/vinz-portfolion/index.html",
+    "main.42db1e44.css.map": "/vinz-portfolion/static/css/main.42db1e44.css.map",
+    "main.ce7805b8.js.map": "/vinz-portfolion/static/js/main.ce7805b8.js.map"
   },
   "entrypoints": [
     "static/css/main.42db1e44.css",
-    "static/js/main.5bad1f21.js"
+    "static/js/main.ce7805b8.js"
   ]
 }
